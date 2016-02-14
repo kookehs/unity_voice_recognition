@@ -1,0 +1,9 @@
+#JSGF V1.0;
+
+/**
+ * JSGF Game Grammar file
+ */
+
+ grammar game;
+
+ public <actions> = (up | down | left | right);
