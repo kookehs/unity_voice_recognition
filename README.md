@@ -1,4 +1,4 @@
-# dolby_game
+# unity_voice_recognition
 
 An application of voice recognition in video games. Play the Unity 2D Roguelike game with just your voice.
 
